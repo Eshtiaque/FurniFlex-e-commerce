@@ -131,7 +131,7 @@ const Cart = () => {
                       className="px-2 py-1 bg-gray-300 rounded"
                     >+</button>
                   </div>
-                <img src={item.image} alt={item.name} className="w-20 h-20 object-cover mr-4" />
+                <img src="https://i.imgur.com/ec3oOhf.png" alt={item.name} className="w-20 h-20 object-cover mr-4" />
                 <div>
                   <h3 className="text-lg font-semibold">{item.name}</h3>
                  
