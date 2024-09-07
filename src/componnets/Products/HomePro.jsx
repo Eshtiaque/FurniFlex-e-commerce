@@ -15,7 +15,7 @@ function HomePro() {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await fetch("../../../public/products.json"); // Replace with the actual path
+        const response = await fetch("/products.json"); // Replace with the actual path
         const data = await response.json();
         setAllProducts(data);
         setLoading(false);

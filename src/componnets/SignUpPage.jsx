@@ -6,8 +6,8 @@ import { FaEye, FaEyeSlash } from 'react-icons/fa';
 import { Link, useLocation, useNavigate } from 'react-router-dom';
 import { useForm } from 'react-hook-form';
 
-import photo from '../assets/images/download.png';
-import logo2 from '../assets/images/svgviewer-png-output (30).png';
+import photo from '../../public/assets/images/download.png';
+import logo2 from '../../public/assets/images/svgviewer-png-output (30).png';
 import { AuthContext } from '../providers/AuthProvider';
 import { getAuth, GoogleAuthProvider, signInWithPopup } from 'firebase/auth';
 

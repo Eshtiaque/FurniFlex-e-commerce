@@ -1,5 +1,5 @@
 import React, { useContext } from 'react';
-import avatar from '../../assets/images/placeholder.jpg'
+import avatar from '../../../public/assets/images/placeholder.jpg'
 import { AuthContext } from '../../providers/AuthProvider';
 
 const Avatar = () => {

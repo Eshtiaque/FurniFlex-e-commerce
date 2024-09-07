@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from '../../assets/images/nav-logo.png'
+import logo from '../../../public/assets/images/nav-logo.png'
 import { Link } from 'react-router-dom';
 
 const Logo = () => {

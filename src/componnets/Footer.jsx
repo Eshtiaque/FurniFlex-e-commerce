@@ -1,13 +1,13 @@
 import React from 'react';
-import photo from '../assets/images/Betsy-Ross-legend-flag-united-states.webp';
-import logo from '../assets/images/svgviewer-png-output (29).png';
+import photo from '../../public/assets/images/Betsy-Ross-legend-flag-united-states.webp';
+import logo from '../../public/assets/images/svgviewer-png-output (29).png';
 
 const Footer = () => {
     const icons = [
-        { href: '#', src: '/src/assets/footer/svgviewer-png-output (25).png', alt: 'Facebook' },
-        { href: '#', src: '/src/assets/footer/svgviewer-png-output (26).png', alt: 'Instagram' },
-        { href: '#', src: '/src/assets/footer/svgviewer-png-output (27).png', alt: 'X/Twitter' },
-        { href: '#', src: '/src/assets/footer/svgviewer-png-output (28).png', alt: 'LinkedIn' },
+        { href: '#', src: 'https://i.ibb.co.com/P4CLMWj/svgviewer-png-output-25.png', alt: 'Facebook' },
+        { href: '#', src: 'https://i.ibb.co.com/R9FwHVr/svgviewer-png-output-26.png', alt: 'Instagram' },
+        { href: '#', src: 'https://i.ibb.co.com/3Thr5pg/svgviewer-png-output-27.png', alt: 'X/Twitter' },
+        { href: '#', src: 'https://i.ibb.co.com/PrqPHpw/svgviewer-png-output-28.png', alt: 'LinkedIn' },
     ];
 
     return (
