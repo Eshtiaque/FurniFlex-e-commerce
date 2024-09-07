@@ -1,0 +1,524 @@
+[
+  {
+    "id": 1,
+    "name": "Recliner Chair Wood",
+    "price": 299,
+    "oldPrice": 356,
+    "discount": "30% OFF",
+    "type": "Rocking chair",
+    "description": "It has a backrest that can be tilted back, and often a footrest extended.",
+    "image": "../src/assets/chair/3.png"
+  },
+  {
+    "id": 2,
+    "name": "Timber Ride Padded",
+    "price": 59,
+    "oldPrice": 100,
+    "discount": "30% OFF",
+    "type": "Rocking chair",
+    "description": "High Back Rocking Side Pocket Portable Folding Outdoor Camping Chairs",
+    "image": "../src/assets/chair/4.png"
+  },
+  {
+    "id": 3,
+    "name": "Colored Wooden Chair",
+    "price": 289,
+    "oldPrice": 356,
+    "discount": "30% OFF",
+    "type": "Rocking chair",
+    "description": "It has a backrest that can be tilted back, and often a footrest extended.",
+    "image": "../src/assets/chair/5.png"
+
+  },
+  {
+    "id": 4,
+    "name": "Blank Bamboo Wicker",
+    "price": 299,
+    "oldPrice": 356,
+    "discount": "30% OFF",
+    "type": "Side chair",
+    "description": "Lightweight, easy to clean, sturdy, safe and stable. Non-slip legs.",
+    "image": "../src/assets/chair/9.png"
+
+  },
+  {
+    "id": 5,
+    "name": "Isolated Wooden Rock",
+    "price": 185,
+    "oldPrice": 400,
+    "discount": "30% OFF",
+    "type": "Side chair",
+    "description": "It has a backrest that can be tilted back, and often a footrest extended.",
+   "image": "../src/assets/chair/8.png"
+  },
+  {
+    "id": 6,
+    "name": "Minimal Empty Rocking",
+    "price": 289,
+    "oldPrice": 356,
+    "discount": "30% OFF",
+    "type": "Lounge chair",
+    "description": "A seat, especially for one person, usually having four legs for support.",
+   "image": "../src/assets/chair/10.png"
+  },
+  {
+    "id": 7,
+    "name": "Vintage Red Velvet",
+    "price": 320,
+    "oldPrice": 450,
+    "discount": "30% OFF",
+    "type": "Lounge chair",
+    "description": "A beautiful vintage red velvet lounge chair with wooden arms.",
+   "image": "../src/assets/chair/3.png"
+  },
+  {
+    "id": 8,
+    "name": "Classic Wooden Rocker",
+    "price": 210,
+    "oldPrice": 300,
+    "discount": "30% OFF",
+    "type": "Rocking chair",
+    "description": "Classic wooden rocking chair with comfortable backrest and armrests.",
+"image": "../src/assets/chair/10.png"
+  },
+  {
+    "id": 9,
+    "name": "Rattan Lounge Chair",
+    "price": 255,
+    "oldPrice": 350,
+    "discount": "30% OFF",
+    "type": "Lounge chair",
+    "description": "A durable rattan lounge chair with plush cushions.",
+"image": "../src/assets/chair/4.png"
+  },
+  {
+    "id": 10,
+    "name": "Outdoor Swing Rocker",
+    "price": 150,
+    "oldPrice": 200,
+    "discount": "30% OFF",
+    "type": "Rocking chair",
+    "description": "Outdoor swing rocker perfect for gardens and patios.",
+"image": "../src/assets/chair/6.png"
+  },
+  {
+    "id": 11,
+    "name": "Nordic Rocking Chair",
+    "price": 270,
+    "oldPrice": 380,
+    "discount": "30% OFF",
+    "type": "Rocking chair",
+    "description": "A Nordic-inspired wooden rocking chair with a minimalist design.",
+"image": "../src/assets/chair/7.png"
+  },
+  {
+    "id": 12,
+    "name": "Modern Fabric Side Chair",
+    "price": 230,
+    "oldPrice": 320,
+    "discount": "30% OFF",
+    "type": "Side chair",
+    "description": "A modern side chair with a soft fabric seat and sleek metal legs.",
+"image": "../src/assets/chair/7.png"
+  },
+  {
+    "id": 13,
+    "name": "Comfy Lounge Rocker",
+    "price": 280,
+    "oldPrice": 400,
+    "discount": "30% OFF",
+    "type": "Lounge chair",
+    "description": "A comfortable lounge rocker with a cushioned seat and wooden frame.",
+"image": "../src/assets/chair/5.png"
+  },
+  {
+    "id": 14,
+    "name": "Swivel Base Rocker",
+    "price": 340,
+    "oldPrice": 450,
+    "discount": "30% OFF",
+    "type": "Rocking chair",
+    "description": "Rocking chair with a swivel base for easy movement.",
+"image": "../src/assets/chair/8.png"
+  },
+  {
+    "id": 15,
+    "name": "Ergonomic Side Chair",
+    "price": 180,
+    "oldPrice": 260,
+    "discount": "30% OFF",
+    "type": "Side chair",
+    "description": "An ergonomic side chair designed for long-lasting comfort.",
+"image": "../src/assets/chair/6.png"
+  },
+  {
+    "id": 16,
+    "name": "Mesh Outdoor Lounger",
+    "price": 120,
+    "oldPrice": 180,
+    "discount": "30% OFF",
+    "type": "Lounge chair",
+    "description": "Mesh outdoor lounger, perfect for sunny days by the pool.",
+"image": "../src/assets/chair/7.png"
+  },
+  {
+    "id": 17,
+    "name": "Reclaimed Wood Rocker",
+    "price": 310,
+    "oldPrice": 400,
+    "discount": "30% OFF",
+    "type": "Rocking chair",
+    "description": "A rocker made from reclaimed wood, eco-friendly and stylish.",
+"image": "../src/assets/chair/9.png"
+  },
+  {
+    "id": 18,
+    "name": "Faux Leather Side Chair",
+    "price": 199,
+    "oldPrice": 280,
+    "discount": "30% OFF",
+    "type": "Side chair",
+    "description": "A sleek faux leather side chair with a modern touch.",
+"image": "../src/assets/chair/5.png"
+  },
+  {
+    "id": 19,
+    "name": "Sunset Rattan Lounger",
+    "price": 270,
+    "oldPrice": 360,
+    "discount": "30% OFF",
+    "type": "Lounge chair",
+    "description": "A sunset-inspired rattan lounger with plush cushions.",
+"image": "../src/assets/chair/6.png"
+  },
+  {
+    "id": 20,
+    "name": "Vintage Wooden Rocker",
+    "price": 285,
+    "oldPrice": 400,
+    "discount": "30% OFF",
+    "type": "Rocking chair",
+    "description": "A vintage-style wooden rocker with a comfortable seat.",
+"image": "../src/assets/chair/10.png"
+  },
+  {
+    "id": 21,
+    "name": "Bamboo Lounge Chair",
+    "price": 245,
+    "oldPrice": 330,
+    "discount": "30% OFF",
+    "type": "Lounge chair",
+    "description": "Eco-friendly bamboo lounge chair with a soft cushion.",
+"image": "../src/assets/chair/8.png"
+  },
+  {
+    "id": 22,
+    "name": "Minimalist Metal Side Chair",
+    "price": 190,
+    "oldPrice": 260,
+    "discount": "30% OFF",
+    "type": "Side chair",
+    "description": "A minimalist metal side chair with a comfortable seat.",
+"image": "../src/assets/chair/10.png"
+  },
+  {
+    "id": 23,
+    "name": "Luxury Velvet Lounge Chair",
+    "price": 320,
+    "oldPrice": 420,
+    "discount": "30% OFF",
+    "type": "Lounge chair",
+    "description": "A luxurious velvet lounge chair with elegant design.",
+"image": "../src/assets/chair/9.png"
+  },
+  {
+    "id": 24,
+    "name": "Contemporary Rocking Chair",
+    "price": 280,
+    "oldPrice": 370,
+    "discount": "30% OFF",
+    "type": "Rocking chair",
+    "description": "A contemporary rocking chair with sleek design and comfort.",
+"image": "../src/assets/chair/10.png"
+  },
+  {
+    "id": 25,
+    "name": "Cushioned Outdoor Lounger",
+    "price": 260,
+    "oldPrice": 340,
+    "discount": "30% OFF",
+    "type": "Lounge chair",
+    "description": "A cushioned outdoor lounger, perfect for relaxing in the garden.",
+"image": "../src/assets/chair/10.png"
+  },
+  {
+    "id": 26,
+    "name": "Rustic Wood Side Chair",
+    "price": 220,
+    "oldPrice": 310,
+    "discount": "30% OFF",
+    "type": "Side chair",
+    "description": "A rustic wood side chair with a natural finish.",
+"image": "../src/assets/chair/3.png"
+  },
+  {
+    "id": 27,
+    "name": "Elegant Lounge Rocker",
+    "price": 330,
+    "oldPrice": 450,
+    "discount": "30% OFF",
+    "type": "Lounge chair",
+    "description": "An elegant lounge rocker with a plush seat and sturdy frame.",
+"image": "../src/assets/chair/10.png"
+  },
+  {
+    "id": 28,
+    "name": "Classic Fabric Side Chair",
+    "price": 195,
+    "oldPrice": 270,
+    "discount": "30% OFF",
+    "type": "Side chair",
+    "description": "A classic fabric side chair with a comfortable design.",
+"image": "../src/assets/chair/3.png"
+  },
+  {
+    "id": 29,
+    "name": "Outdoor Rattan Rocker",
+    "price": 250,
+    "oldPrice": 350,
+    "discount": "30% OFF",
+    "type": "Rocking chair",
+    "description": "An outdoor rattan rocker with a sturdy frame and plush cushions.",
+"image": "../src/assets/chair/10.png"
+  },
+  {
+    "id": 30,
+    "name": "Modern Mesh Lounge Chair",
+    "price": 220,
+    "oldPrice": 310,
+    "discount": "30% OFF",
+    "type": "Lounge chair",
+    "description": "A modern mesh lounge chair with a sleek design.",
+"image": "../src/assets/chair/10.png"
+  },
+  {
+    "id": 31,
+    "name": "Vintage Rattan Rocker",
+    "price": 260,
+    "oldPrice": 350,
+    "discount": "30% OFF",
+    "type": "Rocking chair",
+    "description": "A vintage rattan rocker with a comfortable seat.",
+"image": "../src/assets/chair/10.png"
+  },
+  {
+    "id": 32,
+    "name": "Stylish Metal Side Chair",
+    "price": 200,
+    "oldPrice": 280,
+    "discount": "30% OFF",
+    "type": "Side chair",
+    "description": "A stylish metal side chair with a comfortable seat.",
+"image": "../src/assets/chair/4.png"
+  },
+  {
+    "id": 33,
+    "name": "Luxury Leather Lounger",
+    "price": 350,
+    "oldPrice": 480,
+    "discount": "30% OFF",
+    "type": "Lounge chair",
+    "description": "A luxurious leather lounger with a modern design.",
+"image": "../src/assets/chair/10.png"
+  },
+  {
+    "id": 34,
+    "name": "Eco-friendly Wooden Rocker",
+    "price": 280,
+    "oldPrice": 380,
+    "discount": "30% OFF",
+    "type": "Rocking chair",
+    "description": "An eco-friendly wooden rocker with a comfortable design.",
+"image": "../src/assets/chair/10.png"
+  },
+  {
+    "id": 35,
+    "name": "Modern Fabric Lounger",
+    "price": 230,
+    "oldPrice": 320,
+    "discount": "30% OFF",
+    "type": "Lounge chair",
+    "description": "A modern fabric lounger with a sleek design.",
+"image": "../src/assets/chair/10.png"
+  },
+  {
+    "id": 36,
+    "name": "Velvet Side Chair",
+    "price": 180,
+    "oldPrice": 250,
+    "discount": "30% OFF",
+    "type": "Side chair",
+    "description": "A velvet side chair with plush seating.",
+"image": "../src/assets/chair/2.png"
+  },
+  {
+    "id": 37,
+    "name": "Wicker Rocking Chair",
+    "price": 260,
+    "oldPrice": 350,
+    "discount": "30% OFF",
+    "type": "Rocking chair",
+    "description": "A wicker rocking chair perfect for outdoor relaxation.",
+"image": "../src/assets/chair/10.png"
+  },
+  {
+    "id": 38,
+    "name": "Classic Oak Side Chair",
+    "price": 200,
+    "oldPrice": 280,
+    "discount": "30% OFF",
+    "type": "Side chair",
+    "description": "A classic oak side chair with a timeless design.",
+"image": "../src/assets/chair/7.png"
+  },
+  {
+    "id": 39,
+    "name": "Plush Lounge Chair",
+    "price": 310,
+    "oldPrice": 400,
+    "discount": "30% OFF",
+    "type": "Lounge chair",
+    "description": "A plush lounge chair with extra cushioning for comfort.",
+"image": "../src/assets/chair/10.png"
+  },
+  {
+    "id": 40,
+    "name": "Modern Swivel Rocker",
+    "price": 320,
+    "oldPrice": 450,
+    "discount": "30% OFF",
+    "type": "Rocking chair",
+    "description": "A modern swivel rocker with a sleek design.",
+"image": "../src/assets/chair/10.png"
+  },
+  {
+    "id": 41,
+    "name": "Stylish Lounge Chair",
+    "price": 280,
+    "oldPrice": 370,
+    "discount": "30% OFF",
+    "type": "Lounge chair",
+    "description": "A stylish lounge chair with modern design.",
+    "image": "../src/assets/chair/10.png"
+
+
+  },
+  {
+    "id": 42,
+    "name": "Comfortable Rocker",
+    "price": 260,
+    "oldPrice": 340,
+    "discount": "30% OFF",
+    "type": "Rocking chair",
+    "description": "A comfortable rocker with plush cushions.",
+    "image": "../src/assets/chair/10.png"
+
+
+  },
+  {
+    "id": 43,
+    "name": "Elegant Side Chair",
+    "price": 220,
+    "oldPrice": 310,
+    "discount": "30% OFF",
+    "type": "Side chair",
+    "description": "An elegant side chair with a contemporary design.",
+    "image": "../src/assets/chair/10.png"
+
+
+  },
+  {
+    "id": 44,
+    "name": "Outdoor Rocking Lounger",
+    "price": 270,
+    "oldPrice": 380,
+    "discount": "30% OFF",
+    "type": "Lounge chair",
+    "description": "An outdoor rocking lounger with a weather-resistant design.",
+    "image": "../src/assets/chair/10.png"
+
+
+  },
+  {
+    "id": 45,
+    "name": "Rustic Side Chair",
+    "price": 210,
+    "oldPrice": 300,
+    "discount": "30% OFF",
+    "type": "Side chair",
+    "description": "A rustic side chair with a wooden frame and comfortable seating.",
+    "image": "../src/assets/chair/10.png"
+
+
+  },
+  {
+    "id": 46,
+    "name": "Luxurious Rocking Chair",
+    "price": 330,
+    "oldPrice": 450,
+    "discount": "30% OFF",
+    "type": "Rocking chair",
+    "description": "A luxurious rocking chair with premium materials and design.",
+    "image": "../src/assets/chair/10.png"
+
+
+  },
+  {
+    "id": 47,
+    "name": "Mesh Lounge Rocker",
+    "price": 240,
+    "oldPrice": 320,
+    "discount": "30% OFF",
+    "type": "Lounge chair",
+    "description": "A mesh lounge rocker with a sleek and modern design.",
+    "image": "../src/assets/chair/10.png"
+
+
+  },
+  {
+    "id": 48,
+    "name": "Modern Wood Side Chair",
+    "price": 200,
+    "oldPrice": 280,
+    "discount": "30% OFF",
+    "type": "Side chair",
+    "description": "A modern wood side chair with a contemporary design.",
+    "image": "../src/assets/chair/10.png"
+
+
+  },
+  {
+    "id": 49,
+    "name": "Elegant Velvet Lounger",
+    "price": 350,
+    "oldPrice": 480,
+    "discount": "30% OFF",
+    "type": "Lounge chair",
+    "description": "An elegant velvet lounger with a luxurious design.",
+    "image": "../src/assets/chair/10.png"
+
+
+  },
+  {
+    "id": 50,
+    "name": "Outdoor Fabric Rocker",
+    "price": 270,
+    "oldPrice": 360,
+    "discount": "30% OFF",
+    "type": "Rocking chair",
+    "description": "An outdoor fabric rocker with a weather-resistant design.",
+    "image": "../src/assets/chair/10.png"
+
+
+  }
+]
