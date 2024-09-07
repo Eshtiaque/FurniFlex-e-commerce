@@ -45,7 +45,7 @@ const ProductCard = ({ product }) => {
       <div className="">
         <div className="">
           <img
-            src={product?.image} alt={product.name} className="w-64 h-64  flex justify-center object-cover rounded-lg  " />
+            src="https://i.imgur.com/ec3oOhf.png" alt={product.name} className="w-64 h-64  flex justify-center object-cover rounded-lg  " />
         </div>
 
         <h2 className="text-lg font-bold mt-4">{product.name}</h2>

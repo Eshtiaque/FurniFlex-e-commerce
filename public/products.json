@@ -7,7 +7,7 @@
     "discount": "30% OFF",
     "type": "Rocking chair",
     "description": "It has a backrest that can be tilted back, and often a footrest extended.",
-    "image": "../public/assets/chair/3.png"
+    "image": "https://i.imgur.com/ec3oOhf.png"
   },
   {
     "id": 2,
